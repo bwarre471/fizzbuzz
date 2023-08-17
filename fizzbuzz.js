@@ -13,4 +13,11 @@ while(i<=100) {
         display = false
         t = 0
     }
+    if(display) {
+        process.stdout.write(i)
+    }
+    i++
+    k++
+    t++
+    process.stdout("\n")
 }
