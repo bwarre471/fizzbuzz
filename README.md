@@ -1,5 +1,5 @@
-# fizzbuzz
-A fizzbuzz without modulus.
+# FizzBuzz
+A FizzBuzz without modulus.
 
 ```js
 let i = 1
