@@ -1,6 +1,8 @@
 # FizzBuzz
 A FizzBuzz without modulus.
 
+If you have some FizzBuzz solution, feel free to add it here.
+
 ```js
 let i = 1
 let k = 1
