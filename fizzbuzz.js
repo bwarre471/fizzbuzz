@@ -1,3 +1,4 @@
+process.stdout.write("\n")
 let i = 1
 let k = 1
 let t = 1
